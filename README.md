@@ -17,6 +17,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png">
 <img align="center" height="150" width="150" src="https://camo.githubusercontent.com/4b15d202e98ed0e7b792d2db7405594b11aa1334c72976014d09b3f9f2e92808/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5354774a354c77414e3035624f2f67697068792e676966">
 </div>
 
