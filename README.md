@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/Vitor-Manoel565">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Manoel565&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" height="200" width="200"  justifyContent="space-between" src="https://camo.githubusercontent.com/4b15d202e98ed0e7b792d2db7405594b11aa1334c72976014d09b3f9f2e92808/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5354774a354c77414e3035624f2f67697068792e676966">
+   <img align="center" height="180" width="180"  justifyContent="space-between" src="https://camo.githubusercontent.com/4b15d202e98ed0e7b792d2db7405594b11aa1334c72976014d09b3f9f2e92808/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5354774a354c77414e3035624f2f67697068792e676966">
    <br/>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
