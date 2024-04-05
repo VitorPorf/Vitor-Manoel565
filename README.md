@@ -21,10 +21,11 @@
 </div>
 
 <br/>
- 
+ ![snake animation](https://github.com/Vitor-Manoel565/Vitor-Manoel565/blob/output/github-contribution-grid-snake2.svg)
 <div> 
   <a href="https://instagram.com/vitor_manoel.12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitoralvesbvgs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="(https://www.linkedin.com/in/vitor-manoel-579348204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
   
