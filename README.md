@@ -1,4 +1,4 @@
-### Olá me chamo Vitor Manoel! 👋
+### Olá, me chamo Vitor Manoel! 👋
 
 - 🔭 Trabalho com desenvolvimento web full stack
 - 🌱 Estou estudando React TS
