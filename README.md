@@ -7,8 +7,8 @@
 
 ### ⚡ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitor-Manoel565&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitor-Manoel565&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorPorf&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorPorf&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -25,7 +25,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
 </div>
